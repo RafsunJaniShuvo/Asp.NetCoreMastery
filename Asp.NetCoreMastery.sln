@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp.NetCoreMastery", "Asp.NetCoreMastery\Asp.NetCoreMastery.csproj", "{8AC99721-09CE-4E46-8C80-DC8CB591879C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AC99721-09CE-4E46-8C80-DC8CB591879C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC99721-09CE-4E46-8C80-DC8CB591879C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC99721-09CE-4E46-8C80-DC8CB591879C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC99721-09CE-4E46-8C80-DC8CB591879C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F56024F-D8E3-477B-B1B0-596B2493D5F1}
+	EndGlobalSection
+EndGlobal
