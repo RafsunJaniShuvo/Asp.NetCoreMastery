@@ -8129,6 +8129,10 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "D:\\ASP.NetProject(Main)\\Asp.NetCoreMastery\\Asp.NetCoreMastery\\wwwroot\\scss\\home.scss",
+      "PackagePath": "staticwebassets\\scss\\home.scss"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Asp.NetCoreMastery.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

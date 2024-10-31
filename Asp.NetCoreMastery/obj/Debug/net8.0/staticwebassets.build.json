@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "upNypubvPfYiJ6dC9+dixGZlvO4KM2z7psFkK55YkqI=",
+  "Hash": "oHcoXOOoB+OknCpNtoZqaCW2lPDfbzLOUO/HxgqHGwo=",
   "Source": "Asp.NetCoreMastery",
   "BasePath": "_content/Asp.NetCoreMastery",
   "Mode": "Default",
@@ -39782,6 +39782,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\ASP.NetProject(Main)\\Asp.NetCoreMastery\\Asp.NetCoreMastery\\wwwroot\\scss\\home.scss",
+      "SourceId": "Asp.NetCoreMastery",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NetProject(Main)\\Asp.NetCoreMastery\\Asp.NetCoreMastery\\wwwroot\\",
+      "BasePath": "_content/Asp.NetCoreMastery",
+      "RelativePath": "scss/home.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scss\\home.scss"
     }
   ]
 }

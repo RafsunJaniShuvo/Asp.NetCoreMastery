@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Asp.NetCoreMastery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8cbbc402dbe04f0130c17121d3ea58d09cd899a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25a93e64ef29eaa68e5db2ab81e9660f96c8ab8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Asp.NetCoreMastery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Asp.NetCoreMastery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
